@@ -1,0 +1,8 @@
+Machine Learning
+Data Storytelling: Analysing Survival on the Titanic
+Cracking the Code: An Inside Look at Netflix's Content Strategy
+Predicting Housing Market Trends with AI
+AI in Healthcare: Building a Life-Saving Heart Disease Predictor
+Smart Segmentation: Unlocking Customer Personas with AI
+Predicting Future Store Sales with AI
+Preventing Customer Churn with Feature Transformation
